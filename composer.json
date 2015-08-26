@@ -1,0 +1,14 @@
+{
+    "name": "akhil/hello-world",
+    "description": "My first composer project",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Akhil Bhasme",
+            "email": "akhil.b@logicaldna.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {} 
+}
